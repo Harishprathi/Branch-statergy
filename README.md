@@ -28,7 +28,7 @@ Project goals include:
 * Easy to build, use, and include in other projects
 * No external dependencies
 * Fast execution and low memory footprint
-* Maintain backward compatibility
+* Maintain backward compatibility by harish
 * Designed and tested to use on Java versions 1.6 - 25
 
 # License Clarification
